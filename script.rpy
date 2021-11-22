@@ -1830,6 +1830,7 @@ translate Chinese skylar_e24d16c5:
 
     # s "Let's just say..."
     s "不如说……"
+    这里有一个修改
 
 # game/script.rpy:874
 translate Chinese skylar_a7ddccc2:
