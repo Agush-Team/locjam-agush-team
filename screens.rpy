@@ -92,7 +92,7 @@ translate Chinese strings:
 
     # game/screens.rpy:676
     old "empty slot"
-    new "empty slot清空？"
+    new "空档"
 
     # game/screens.rpy:748
     old "Display"
