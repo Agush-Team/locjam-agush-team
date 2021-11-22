@@ -371,7 +371,7 @@ translate Chinese michael_7c7ba67f:
 translate Chinese michael_06668fd7:
 
     # m "Oh, yes!"
-    m ""
+    m "当然！"
 
 # game/script.rpy:209
 translate Chinese michael_e482525c:
@@ -971,7 +971,7 @@ translate Chinese michael4_1cf9ee83:
 translate Chinese michael4_0b8ded3e:
 
     # m "I have a request for you."
-    m "我向你有个请求。"
+    m "我有个请求。"
 
 # game/script.rpy:484
 translate Chinese michael4_89d7ec0f:
@@ -1187,7 +1187,7 @@ translate Chinese mic_noans4_643d6239:
 translate Chinese michael5_c5bcdb3c:
 
     # m "Ok, now for the final question..."
-    m "OK,最后一个问题......"
+    m "OK，最后一个问题......"
 
 # game/script.rpy:573
 translate Chinese michael5_911d8fa3:
@@ -1211,13 +1211,13 @@ translate Chinese michael5_c941b37a:
 translate Chinese michael5_64b88e1f:
 
     # m "Y E S !"
-    m "太 好 了！"
+    m "太！好！了！"
 
 # game/script.rpy:590
 translate Chinese michael5_8d63f5da:
 
     # m "I knew it was meant to be!"
-    m "我就知道注定是这样！"
+    m "我就知道肯定是这样！"
 
 # game/script.rpy:590
 translate Chinese michael5_67b901fe:
@@ -1247,7 +1247,7 @@ translate Chinese michael5_795d33b8:
 translate Chinese michael5_2c5f7af5:
 
     # m "I totally get what you mean."
-    m ""
+    m "我太懂你的意思了。"
 
 # game/script.rpy:604
 translate Chinese michael5_f38a8382:
@@ -1301,7 +1301,7 @@ translate Chinese michael5_34e0aed9:
 translate Chinese michael5_25df1cdc:
 
     # m "Why thank you."
-    m ""
+    m "干嘛这么说，谢了。"
 
 # game/script.rpy:627
 translate Chinese michael5_33083b51:
@@ -1313,13 +1313,13 @@ translate Chinese michael5_33083b51:
 translate Chinese michael5_716cd11e:
 
     # m "That’s unfortunate."
-    m ""
+    m "那真是家门不幸。"
 
 # game/script.rpy:627
 translate Chinese michael5_c8837687:
 
     # m "But..."
-    m ""
+    m "不过......"
 
 # game/script.rpy:627
 translate Chinese michael5_8e62db32:
@@ -1361,7 +1361,7 @@ translate Chinese mic_noans5_643d6239:
 translate Chinese michaelcount_c1c307e0:
 
     # m "Well, Lars..."
-    m ""
+    m "好吧，拉尔斯......"
 
 # game/script.rpy:659
 translate Chinese michaelcount_bb1fea5a:
@@ -1427,7 +1427,7 @@ translate Chinese michaelcount_b8aea200:
 translate Chinese michaelcount_bc20b2cd:
 
     # m "Listen, Lars..."
-    m ""
+    m "听我说，拉尔斯......"
 
 # game/script.rpy:686
 translate Chinese michaelcount_b36fd1d9:
@@ -1475,7 +1475,7 @@ translate Chinese michaelcount_5fbdf473:
 translate Chinese michaelcount_697beb79:
 
     # m "Great!"
-    m ""
+    m "那就好！"
 
 # game/script.rpy:702
 translate Chinese michaelcount_57eb43f1:
@@ -1499,7 +1499,7 @@ translate Chinese michaelending_252f3573:
 translate Chinese michaelending_de25c960:
 
     # m "Here it is!"
-    m "就到此为止吧！"
+    m "现在就到此为止吧！"
 
 # game/script.rpy:720
 translate Chinese michaelending_f63fa2e4:
